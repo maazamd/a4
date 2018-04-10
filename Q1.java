@@ -53,7 +53,7 @@ public class Q1 {
 
     public static void main(String[] args) {
 
-        StudentInfo.display();
+        //StudentInfo.display();
 
         /*
         ITIStringBuffer marco = new ITIStringBuffer();
